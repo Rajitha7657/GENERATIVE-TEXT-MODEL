@@ -18,3 +18,4 @@ A generative text tool is an AI-powered application that creates human-like text
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/4bba52a5-f1aa-4155-ba02-4407a50efc36)
